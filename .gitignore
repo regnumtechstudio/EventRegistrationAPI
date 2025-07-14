@@ -1,0 +1,24 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/EventRegistrationAPI/v17
+/.vs/EventRegistrationAPI/FileContentIndex
+/.vs/EventRegistrationAPI
+/.vs
+/DataAccess/.vs/DataAccess
+/DataAccess/bin
+/DataAccess/obj
+/EventManagement/.config
+/EventManagement/.vs
+/EventManagement/bin
+/EventManagement/bin_old
+/EventManagement/obj
+/Models/bin
+/Models/obj
+/Utilities/bin
+/Utilities/obj
+/EventManagement/Properties/PublishProfiles
+/EventManagement/Properties

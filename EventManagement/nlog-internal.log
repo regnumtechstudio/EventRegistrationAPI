@@ -1,0 +1,786 @@
+2025-05-28 17:40:13.3907 Info Message Template Auto Format enabled
+2025-05-28 17:40:13.4374 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 17:40:13.6584 Info Adding target FileTarget(Name=allfile)
+2025-05-28 17:40:13.6584 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 17:40:13.7420 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 17:40:13.7611 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 17:40:15.8297 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 17:40:49.0528 Info Message Template Auto Format enabled
+2025-05-28 17:40:49.0779 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 17:40:49.2211 Info Adding target FileTarget(Name=allfile)
+2025-05-28 17:40:49.2344 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 17:40:49.3137 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 17:40:49.3411 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 17:40:50.4090 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 17:46:14.9241 Info Message Template Auto Format enabled
+2025-05-28 17:46:15.0170 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 17:46:15.2737 Info Adding target FileTarget(Name=allfile)
+2025-05-28 17:46:15.3971 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 17:46:15.5681 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 17:46:15.6090 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 17:46:18.0505 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 17:50:08.9280 Info Message Template Auto Format enabled
+2025-05-28 17:50:08.9730 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 17:50:09.1392 Info Adding target FileTarget(Name=allfile)
+2025-05-28 17:50:09.1585 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 17:50:09.2496 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 17:50:09.2726 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 17:50:10.6436 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 18:38:57.5415 Info Message Template Auto Format enabled
+2025-05-28 18:38:57.5814 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 18:38:57.6810 Info Adding target FileTarget(Name=allfile)
+2025-05-28 18:38:57.6881 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 18:38:57.7381 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 18:38:57.7575 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 18:38:59.4266 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 18:44:54.1873 Info Message Template Auto Format enabled
+2025-05-28 18:44:54.3381 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 18:44:54.6030 Info Adding target FileTarget(Name=allfile)
+2025-05-28 18:44:54.6166 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 18:44:54.7571 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 18:44:54.8609 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 18:44:57.1194 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 18:52:05.7322 Info Message Template Auto Format enabled
+2025-05-28 18:52:05.7472 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 18:52:05.8147 Info Adding target FileTarget(Name=allfile)
+2025-05-28 18:52:05.8147 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 18:52:05.8658 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 18:52:05.8762 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 18:52:08.0000 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 19:12:31.4816 Info Message Template Auto Format enabled
+2025-05-28 19:12:31.5159 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 19:12:31.6218 Info Adding target FileTarget(Name=allfile)
+2025-05-28 19:12:31.6297 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 19:12:31.6761 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 19:12:31.6893 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 19:12:35.1757 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 19:12:37.0335 Info Shutdown() called. Logger closing...
+2025-05-28 19:12:37.0335 Info Closing old configuration.
+2025-05-28 19:12:37.0826 Info Logger has been closed down.
+2025-05-28 19:12:41.3581 Info Shutdown() called. Logger closing...
+2025-05-28 19:12:41.3663 Info Logger has been closed down.
+2025-05-28 19:13:15.6560 Info Message Template Auto Format enabled
+2025-05-28 19:13:15.6881 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 19:13:15.7881 Info Adding target FileTarget(Name=allfile)
+2025-05-28 19:13:15.7979 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 19:13:15.8366 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 19:13:15.8469 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 19:14:53.5067 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 19:15:34.1706 Info Message Template Auto Format enabled
+2025-05-28 19:15:34.1846 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 19:15:34.2694 Info Adding target FileTarget(Name=allfile)
+2025-05-28 19:15:34.2694 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 19:15:34.3107 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 19:15:34.3207 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 19:15:36.4100 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 19:22:58.6994 Info Message Template Auto Format enabled
+2025-05-28 19:22:58.7306 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 19:22:58.8219 Info Adding target FileTarget(Name=allfile)
+2025-05-28 19:22:58.8292 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 19:22:58.8702 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 19:22:58.8831 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 19:23:01.9794 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 19:24:53.6446 Info Shutdown() called. Logger closing...
+2025-05-28 19:24:53.6446 Info Closing old configuration.
+2025-05-28 19:24:53.7302 Info Logger has been closed down.
+2025-05-28 19:24:53.7302 Info Shutdown() called. Logger closing...
+2025-05-28 19:24:53.7420 Info Logger has been closed down.
+2025-05-28 19:28:05.8977 Info Message Template Auto Format enabled
+2025-05-28 19:28:05.9263 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 19:28:06.0674 Info Adding target FileTarget(Name=allfile)
+2025-05-28 19:28:06.0794 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 19:28:06.1400 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 19:28:06.1622 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 19:28:11.3372 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 19:37:00.9348 Info Message Template Auto Format enabled
+2025-05-28 19:37:00.9691 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 19:37:01.1540 Info Adding target FileTarget(Name=allfile)
+2025-05-28 19:37:01.1778 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 19:37:01.2832 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 19:37:01.3126 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 19:37:05.1890 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 19:43:43.8188 Info Message Template Auto Format enabled
+2025-05-28 19:43:43.8439 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 19:43:43.9318 Info Adding target FileTarget(Name=allfile)
+2025-05-28 19:43:43.9393 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 19:43:43.9829 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 19:43:44.0003 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 19:43:52.7795 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 20:03:55.0313 Info Message Template Auto Format enabled
+2025-05-28 20:03:55.1401 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 20:03:55.7535 Info Adding target FileTarget(Name=allfile)
+2025-05-28 20:03:56.0978 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 20:03:56.2309 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 20:03:56.2876 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 20:04:01.0024 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 20:10:11.4075 Info Message Template Auto Format enabled
+2025-05-28 20:10:11.6503 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 20:10:12.2540 Info Adding target FileTarget(Name=allfile)
+2025-05-28 20:10:12.2839 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 20:10:12.3791 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 20:10:12.4028 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 20:10:17.9821 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 20:14:59.6305 Info Message Template Auto Format enabled
+2025-05-28 20:14:59.6739 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 20:14:59.8884 Info Adding target FileTarget(Name=allfile)
+2025-05-28 20:14:59.9110 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 20:15:00.0313 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 20:15:00.1867 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 20:15:05.1548 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 20:21:03.7732 Info Message Template Auto Format enabled
+2025-05-28 20:21:03.8027 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 20:21:03.9453 Info Adding target FileTarget(Name=allfile)
+2025-05-28 20:21:03.9602 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 20:21:04.0244 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 20:21:04.0416 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 20:21:10.3719 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 20:28:15.7307 Info Message Template Auto Format enabled
+2025-05-28 20:28:15.7567 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 20:28:15.9200 Info Adding target FileTarget(Name=allfile)
+2025-05-28 20:28:15.9373 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 20:28:16.0024 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 20:28:16.1047 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 20:28:29.7145 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 20:33:11.6303 Info Message Template Auto Format enabled
+2025-05-28 20:33:12.1236 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 20:33:13.0715 Info Adding target FileTarget(Name=allfile)
+2025-05-28 20:33:13.0970 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 20:33:13.2054 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 20:33:13.2274 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 20:33:17.6040 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 21:34:56.6906 Info Message Template Auto Format enabled
+2025-05-28 21:34:56.7332 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 21:34:56.8266 Info Adding target FileTarget(Name=allfile)
+2025-05-28 21:34:56.8379 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 21:34:56.8916 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 21:34:56.8916 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 21:35:26.8806 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 21:39:30.4774 Info Message Template Auto Format enabled
+2025-05-28 21:39:30.4959 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 21:39:30.5666 Info Adding target FileTarget(Name=allfile)
+2025-05-28 21:39:30.5666 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 21:39:30.6078 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 21:39:30.6184 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 21:39:36.7124 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 21:43:58.2373 Info Message Template Auto Format enabled
+2025-05-28 21:43:58.2818 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 21:43:58.4414 Info Adding target FileTarget(Name=allfile)
+2025-05-28 21:43:58.4757 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 21:43:58.5403 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 21:43:58.5569 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 21:44:02.7497 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 21:50:18.3962 Info Message Template Auto Format enabled
+2025-05-28 21:50:18.4308 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 21:50:18.6599 Info Adding target FileTarget(Name=allfile)
+2025-05-28 21:50:18.6904 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 21:50:18.7680 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 21:50:18.9656 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 21:52:14.5088 Info Message Template Auto Format enabled
+2025-05-28 21:52:14.6399 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-28 21:52:14.9600 Info Adding target FileTarget(Name=allfile)
+2025-05-28 21:52:14.9763 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-28 21:52:15.0704 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-28 21:52:15.0952 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-28 21:52:37.9186 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 12:51:44.2425 Info Message Template Auto Format enabled
+2025-05-29 12:51:44.2604 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-29 12:51:44.3524 Info Adding target FileTarget(Name=allfile)
+2025-05-29 12:51:44.3642 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-29 12:51:44.4068 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 12:51:44.4392 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-29 12:52:00.4043 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 12:53:16.9757 Info Message Template Auto Format enabled
+2025-05-29 12:53:17.0024 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-29 12:53:17.2075 Info Adding target FileTarget(Name=allfile)
+2025-05-29 12:53:17.2626 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-29 12:53:17.7028 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 12:53:17.9169 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-29 12:53:28.2264 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 12:56:00.4235 Info Message Template Auto Format enabled
+2025-05-29 12:56:00.4885 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-29 12:56:00.5934 Info Adding target FileTarget(Name=allfile)
+2025-05-29 12:56:00.6044 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-29 12:56:00.6976 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 12:56:01.0575 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-29 12:56:07.9925 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 12:59:29.2012 Info Message Template Auto Format enabled
+2025-05-29 12:59:29.2530 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-29 12:59:29.4262 Info Adding target FileTarget(Name=allfile)
+2025-05-29 12:59:29.4433 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-29 12:59:29.5263 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 12:59:29.5526 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-29 12:59:31.3841 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 13:06:21.5237 Info Message Template Auto Format enabled
+2025-05-29 13:06:21.7484 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-29 13:06:23.0793 Info Adding target FileTarget(Name=allfile)
+2025-05-29 13:06:23.2424 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-29 13:06:23.3856 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 13:06:23.4244 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-29 13:06:25.2131 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 13:13:07.7004 Info Message Template Auto Format enabled
+2025-05-29 13:13:07.7256 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-29 13:13:07.8967 Info Adding target FileTarget(Name=allfile)
+2025-05-29 13:13:07.9140 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-29 13:13:07.9997 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 13:13:08.0277 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-29 13:13:09.6429 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 14:44:16.7275 Info Message Template Auto Format enabled
+2025-05-29 14:44:16.7645 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-29 14:44:16.9385 Info Adding target FileTarget(Name=allfile)
+2025-05-29 14:44:16.9573 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-29 14:44:17.0351 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 14:44:17.0559 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-29 14:44:18.8751 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 14:56:23.6553 Info Message Template Auto Format enabled
+2025-05-29 14:56:23.6734 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-29 14:56:23.8319 Info Adding target FileTarget(Name=allfile)
+2025-05-29 14:56:23.8513 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-29 14:56:24.0448 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 14:56:24.0739 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-29 14:56:28.1255 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 14:56:48.0062 Info Message Template Auto Format enabled
+2025-05-29 14:56:48.0327 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-29 14:56:48.1586 Info Adding target FileTarget(Name=allfile)
+2025-05-29 14:56:48.1831 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-29 14:56:48.2661 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 14:56:48.3157 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-29 14:56:51.9931 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 15:03:37.4949 Info Message Template Auto Format enabled
+2025-05-29 15:03:37.5334 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-29 15:03:37.7661 Info Adding target FileTarget(Name=allfile)
+2025-05-29 15:03:37.7850 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-29 15:03:38.4667 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 15:03:38.5710 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-29 15:03:42.1993 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 15:57:59.2221 Info Message Template Auto Format enabled
+2025-05-29 15:57:59.2916 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-29 15:57:59.6923 Info Adding target FileTarget(Name=allfile)
+2025-05-29 15:57:59.7100 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-29 15:57:59.8075 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 15:57:59.8403 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-29 15:58:05.0290 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 17:19:51.7335 Info Message Template Auto Format enabled
+2025-05-29 17:19:51.8574 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-29 17:19:52.5204 Info Adding target FileTarget(Name=allfile)
+2025-05-29 17:19:52.5395 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-29 17:19:52.6263 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 17:19:52.6525 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-29 17:19:54.8474 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 17:26:42.7253 Info Message Template Auto Format enabled
+2025-05-29 17:26:42.7532 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-29 17:26:42.8510 Info Adding target FileTarget(Name=allfile)
+2025-05-29 17:26:42.9294 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-29 17:26:43.3502 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 17:26:43.5028 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-29 17:26:46.3152 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 17:31:58.7484 Info Message Template Auto Format enabled
+2025-05-29 17:31:58.8298 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-29 17:31:59.7645 Info Adding target FileTarget(Name=allfile)
+2025-05-29 17:32:00.0848 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-29 17:32:00.2668 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 17:32:00.3153 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-29 17:32:01.9366 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 17:53:15.8593 Info Message Template Auto Format enabled
+2025-05-29 17:53:15.8829 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-29 17:53:16.2516 Info Adding target FileTarget(Name=allfile)
+2025-05-29 17:53:16.4320 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-29 17:53:16.6888 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-29 17:53:16.9851 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-29 17:53:19.6350 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 10:34:59.6329 Info Message Template Auto Format enabled
+2025-05-30 10:34:59.7141 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-30 10:34:59.9742 Info Adding target FileTarget(Name=allfile)
+2025-05-30 10:34:59.9852 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-30 10:35:00.0581 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 10:35:00.0771 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-30 10:35:01.9462 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 12:03:06.5442 Info Message Template Auto Format enabled
+2025-05-30 12:03:06.5757 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-30 12:03:07.0973 Info Adding target FileTarget(Name=allfile)
+2025-05-30 12:03:07.2998 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-30 12:03:07.4486 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 12:03:07.5310 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-30 12:03:09.7449 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 12:47:34.0398 Info Message Template Auto Format enabled
+2025-05-30 12:47:34.0812 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-30 12:47:34.2615 Info Adding target FileTarget(Name=allfile)
+2025-05-30 12:47:34.3174 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-30 12:47:34.5072 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 12:47:34.5451 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-30 12:47:36.7110 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 12:47:50.3521 Info Message Template Auto Format enabled
+2025-05-30 12:47:50.3670 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-30 12:47:50.4472 Info Adding target FileTarget(Name=allfile)
+2025-05-30 12:47:50.4591 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-30 12:47:50.5003 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 12:47:50.5190 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-30 12:47:53.8465 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 12:58:05.7929 Info Message Template Auto Format enabled
+2025-05-30 12:58:05.8220 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-30 12:58:05.9820 Info Adding target FileTarget(Name=allfile)
+2025-05-30 12:58:05.9991 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-30 12:58:06.0880 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 12:58:06.1168 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-30 12:58:08.1729 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 13:32:38.2603 Info Message Template Auto Format enabled
+2025-05-30 13:32:38.2879 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-30 13:32:38.4635 Info Adding target FileTarget(Name=allfile)
+2025-05-30 13:32:38.5011 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-30 13:32:38.5930 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 13:32:38.6144 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-30 13:32:42.9689 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 14:53:34.5876 Info Message Template Auto Format enabled
+2025-05-30 14:53:34.6183 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-30 14:53:34.7600 Info Adding target FileTarget(Name=allfile)
+2025-05-30 14:53:34.7802 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-30 14:53:34.8720 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 14:53:34.8986 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-30 14:53:37.0454 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 15:09:12.4580 Info Message Template Auto Format enabled
+2025-05-30 15:09:12.5127 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-30 15:09:12.9521 Info Adding target FileTarget(Name=allfile)
+2025-05-30 15:09:13.0399 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-30 15:09:13.4716 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 15:09:13.5839 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-30 15:09:17.3102 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 15:31:03.1553 Info Message Template Auto Format enabled
+2025-05-30 15:31:03.1874 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-30 15:31:03.3673 Info Adding target FileTarget(Name=allfile)
+2025-05-30 15:31:03.3916 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-30 15:31:03.4832 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 15:31:03.5080 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-30 15:31:06.3130 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 16:46:15.0039 Info Message Template Auto Format enabled
+2025-05-30 16:46:15.0608 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-30 16:46:15.3603 Info Adding target FileTarget(Name=allfile)
+2025-05-30 16:46:15.4053 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-30 16:46:15.5649 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 16:46:15.5936 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-30 16:46:22.6446 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 16:56:14.5880 Info Message Template Auto Format enabled
+2025-05-30 16:56:14.6123 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-30 16:56:14.8437 Info Adding target FileTarget(Name=allfile)
+2025-05-30 16:56:14.8788 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-30 16:56:14.9802 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 16:56:15.0048 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-30 16:56:46.4790 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 17:00:37.2430 Info Message Template Auto Format enabled
+2025-05-30 17:00:37.2715 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-30 17:00:37.3766 Info Adding target FileTarget(Name=allfile)
+2025-05-30 17:00:37.3912 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-30 17:00:37.4797 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 17:00:37.5402 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-30 17:00:44.3868 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 17:08:41.4812 Info Message Template Auto Format enabled
+2025-05-30 17:08:41.6269 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-30 17:08:42.5848 Info Adding target FileTarget(Name=allfile)
+2025-05-30 17:08:42.6728 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-30 17:08:42.9565 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 17:08:42.9973 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-30 17:08:54.9188 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 17:15:48.6270 Info Message Template Auto Format enabled
+2025-05-30 17:15:48.6530 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-30 17:15:48.8166 Info Adding target FileTarget(Name=allfile)
+2025-05-30 17:15:48.8365 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-30 17:15:48.8866 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 17:15:48.9117 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-30 17:15:57.5194 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 17:51:53.7570 Info Message Template Auto Format enabled
+2025-05-30 17:51:54.3386 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-30 17:51:54.7249 Info Adding target FileTarget(Name=allfile)
+2025-05-30 17:51:54.7416 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-30 17:51:54.8331 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-30 17:51:54.8624 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-30 17:52:08.6765 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 11:24:18.6262 Info Message Template Auto Format enabled
+2025-05-31 11:24:18.6479 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 11:24:18.7638 Info Adding target FileTarget(Name=allfile)
+2025-05-31 11:24:18.7741 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 11:24:18.8131 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 11:24:18.8131 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 11:24:28.5252 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 11:25:37.0292 Info Message Template Auto Format enabled
+2025-05-31 11:25:37.0627 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 11:25:37.2039 Info Adding target FileTarget(Name=allfile)
+2025-05-31 11:25:37.2228 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 11:25:37.2933 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 11:25:37.3191 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 11:25:39.1718 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 11:27:05.2941 Info Message Template Auto Format enabled
+2025-05-31 11:27:05.3077 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 11:27:05.4193 Info Adding target FileTarget(Name=allfile)
+2025-05-31 11:27:05.4369 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 11:27:05.4934 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 11:27:05.5042 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 11:27:08.8776 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 11:29:23.9596 Info Message Template Auto Format enabled
+2025-05-31 11:29:24.0012 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 11:29:24.2641 Info Adding target FileTarget(Name=allfile)
+2025-05-31 11:29:24.2968 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 11:29:24.3884 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 11:29:24.4132 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 11:29:25.9541 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 11:31:25.6591 Info Message Template Auto Format enabled
+2025-05-31 11:31:25.6846 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 11:31:25.7788 Info Adding target FileTarget(Name=allfile)
+2025-05-31 11:31:25.7912 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 11:31:26.0091 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 11:31:26.2235 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 11:31:28.9021 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 13:36:13.0025 Info Message Template Auto Format enabled
+2025-05-31 13:36:13.0565 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 13:36:13.2723 Info Adding target FileTarget(Name=allfile)
+2025-05-31 13:36:13.2962 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 13:36:13.3964 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 13:36:13.4221 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 13:36:15.5336 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 13:39:39.3197 Info Message Template Auto Format enabled
+2025-05-31 13:39:39.6229 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 13:39:40.1289 Info Adding target FileTarget(Name=allfile)
+2025-05-31 13:39:40.2963 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 13:39:40.5947 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 13:39:40.6198 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 13:39:42.8808 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 13:46:13.3259 Info Message Template Auto Format enabled
+2025-05-31 13:46:13.3443 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 13:46:13.4592 Info Adding target FileTarget(Name=allfile)
+2025-05-31 13:46:13.4677 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 13:46:13.5121 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 13:46:13.5275 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 13:46:17.4689 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 14:06:26.8382 Info Message Template Auto Format enabled
+2025-05-31 14:06:26.8788 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 14:06:27.1084 Info Adding target FileTarget(Name=allfile)
+2025-05-31 14:06:27.3018 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 14:06:27.6899 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 14:06:28.0210 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 14:06:30.7140 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 14:06:54.9408 Info Message Template Auto Format enabled
+2025-05-31 14:06:55.3070 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 14:06:56.0842 Info Adding target FileTarget(Name=allfile)
+2025-05-31 14:06:56.2401 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 14:06:56.6761 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 14:06:57.2733 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 14:06:59.4115 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 14:14:56.9756 Info Message Template Auto Format enabled
+2025-05-31 14:14:57.2090 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 14:14:58.0720 Info Adding target FileTarget(Name=allfile)
+2025-05-31 14:14:58.2230 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 14:14:58.3174 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 14:14:58.3419 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 14:14:59.9542 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 14:16:31.3858 Info Message Template Auto Format enabled
+2025-05-31 14:16:31.4007 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 14:16:31.5017 Info Adding target FileTarget(Name=allfile)
+2025-05-31 14:16:31.5261 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 14:16:31.6147 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 14:16:31.7902 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 14:16:35.4049 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 14:37:40.7371 Info Message Template Auto Format enabled
+2025-05-31 14:37:40.8900 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 14:37:42.1684 Info Adding target FileTarget(Name=allfile)
+2025-05-31 14:37:42.2069 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 14:37:42.4135 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 14:37:42.4393 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 14:37:44.5165 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 14:40:24.4191 Info Message Template Auto Format enabled
+2025-05-31 14:40:24.4496 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 14:40:24.6237 Info Adding target FileTarget(Name=allfile)
+2025-05-31 14:40:24.6431 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 14:40:24.7407 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 14:40:24.7659 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 14:40:26.2982 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 15:04:17.2396 Info Message Template Auto Format enabled
+2025-05-31 15:04:17.2798 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 15:04:17.4389 Info Adding target FileTarget(Name=allfile)
+2025-05-31 15:04:17.4592 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 15:04:17.5404 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 15:04:17.5625 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 15:04:19.6502 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 15:50:44.8326 Info Message Template Auto Format enabled
+2025-05-31 15:50:44.8746 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 15:50:45.1298 Info Adding target FileTarget(Name=allfile)
+2025-05-31 15:50:45.1559 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 15:50:45.2546 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 15:50:45.3003 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 15:50:47.9708 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 15:59:59.0197 Info Message Template Auto Format enabled
+2025-05-31 15:59:59.0831 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 15:59:59.3081 Info Adding target FileTarget(Name=allfile)
+2025-05-31 15:59:59.3383 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 15:59:59.4092 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 15:59:59.4295 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 16:00:03.7458 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 16:16:11.9379 Info Message Template Auto Format enabled
+2025-05-31 16:16:12.0226 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 16:16:12.4465 Info Adding target FileTarget(Name=allfile)
+2025-05-31 16:16:12.6397 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 16:16:12.9800 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 16:16:13.2614 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 16:16:15.9533 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 16:21:38.8468 Info Message Template Auto Format enabled
+2025-05-31 16:21:39.3941 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 16:21:40.4299 Info Adding target FileTarget(Name=allfile)
+2025-05-31 16:21:40.5619 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 16:21:40.8341 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 16:21:40.8792 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 16:21:43.4498 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 16:23:04.7672 Info Message Template Auto Format enabled
+2025-05-31 16:23:04.7841 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 16:23:05.0003 Info Adding target FileTarget(Name=allfile)
+2025-05-31 16:23:05.0638 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 16:23:05.2531 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 16:23:05.3596 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 16:23:08.2146 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 16:39:36.5632 Info Message Template Auto Format enabled
+2025-05-31 16:39:36.6213 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 16:39:36.9828 Info Adding target FileTarget(Name=allfile)
+2025-05-31 16:39:37.0792 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 16:39:37.4192 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 16:39:37.5935 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 16:39:40.2448 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 16:40:28.4626 Info Message Template Auto Format enabled
+2025-05-31 16:40:28.4815 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 16:40:28.7551 Info Adding target FileTarget(Name=allfile)
+2025-05-31 16:40:29.2030 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 16:40:29.5242 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 16:40:29.8730 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 16:40:32.1249 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 16:41:36.5473 Info Message Template Auto Format enabled
+2025-05-31 16:41:36.5977 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 16:41:37.6440 Info Adding target FileTarget(Name=allfile)
+2025-05-31 16:41:38.0001 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 16:41:38.2771 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 16:41:38.3298 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 16:41:39.9744 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 16:45:49.8524 Info Message Template Auto Format enabled
+2025-05-31 16:45:50.2297 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 16:45:51.4586 Info Adding target FileTarget(Name=allfile)
+2025-05-31 16:45:51.5224 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 16:45:51.6520 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 16:45:51.7093 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 16:45:53.5451 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 16:46:46.5552 Info Message Template Auto Format enabled
+2025-05-31 16:46:46.6384 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 16:46:46.8422 Info Adding target FileTarget(Name=allfile)
+2025-05-31 16:46:46.8693 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 16:46:46.9996 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 16:46:47.0517 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 16:46:50.3129 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 16:53:13.3152 Info Message Template Auto Format enabled
+2025-05-31 16:53:13.3564 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 16:53:13.5298 Info Adding target FileTarget(Name=allfile)
+2025-05-31 16:53:13.5547 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 16:53:13.6425 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 16:53:13.6830 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 16:53:15.4753 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 17:06:13.8774 Info Message Template Auto Format enabled
+2025-05-31 17:06:13.9228 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 17:06:14.0751 Info Adding target FileTarget(Name=allfile)
+2025-05-31 17:06:14.0957 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 17:06:14.1900 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 17:06:14.2208 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 17:06:16.4845 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 17:25:46.7942 Info Message Template Auto Format enabled
+2025-05-31 17:25:46.8358 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 17:25:47.0064 Info Adding target FileTarget(Name=allfile)
+2025-05-31 17:25:47.0220 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 17:25:47.1039 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 17:25:47.1290 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 17:25:49.5077 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 17:49:14.4283 Info Message Template Auto Format enabled
+2025-05-31 17:49:14.4763 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 17:49:14.6316 Info Adding target FileTarget(Name=allfile)
+2025-05-31 17:49:14.6492 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 17:49:14.7279 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 17:49:14.7506 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 17:49:16.8774 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 17:50:48.3399 Info Message Template Auto Format enabled
+2025-05-31 17:50:49.5345 Info Loading assembly: NLog.Web.AspNetCore
+2025-05-31 17:50:51.0127 Info Adding target FileTarget(Name=allfile)
+2025-05-31 17:50:51.3351 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-05-31 17:50:51.7320 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-05-31 17:50:51.7926 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-05-31 17:50:53.5175 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-02 10:44:29.1679 Info Message Template Auto Format enabled
+2025-06-02 10:44:29.1926 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-02 10:44:29.2884 Info Adding target FileTarget(Name=allfile)
+2025-06-02 10:44:29.2973 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-02 10:44:29.3514 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-02 10:44:29.3679 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-02 10:44:31.1843 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-02 12:49:09.6531 Info Message Template Auto Format enabled
+2025-06-02 12:49:09.6980 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-02 12:49:09.8719 Info Adding target FileTarget(Name=allfile)
+2025-06-02 12:49:09.8922 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-02 12:49:09.9672 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-02 12:49:09.9923 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-02 12:49:11.9093 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-02 12:53:32.2190 Info Message Template Auto Format enabled
+2025-06-02 12:53:32.2488 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-02 12:53:32.6725 Info Adding target FileTarget(Name=allfile)
+2025-06-02 12:53:32.9777 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-02 12:53:33.4080 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-02 12:53:33.5966 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-02 12:53:35.9296 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-02 13:33:45.2379 Info Message Template Auto Format enabled
+2025-06-02 13:33:45.2785 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-02 13:33:45.4388 Info Adding target FileTarget(Name=allfile)
+2025-06-02 13:33:45.4536 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-02 13:33:45.5336 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-02 13:33:45.5554 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-02 13:33:47.3404 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-02 18:40:29.9395 Info Message Template Auto Format enabled
+2025-06-02 18:40:29.9875 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-02 18:40:30.2437 Info Adding target FileTarget(Name=allfile)
+2025-06-02 18:40:30.2721 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-02 18:40:30.3562 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-02 18:40:30.3854 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-02 18:40:32.4937 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-02 19:00:09.3796 Info Message Template Auto Format enabled
+2025-06-02 19:00:09.4487 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-02 19:00:09.7479 Info Adding target FileTarget(Name=allfile)
+2025-06-02 19:00:09.7684 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-02 19:00:09.8461 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-02 19:00:09.9181 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-02 19:00:12.3312 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-02 19:01:21.3107 Info Message Template Auto Format enabled
+2025-06-02 19:01:21.3356 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-02 19:01:21.5123 Info Adding target FileTarget(Name=allfile)
+2025-06-02 19:01:21.5335 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-02 19:01:21.6283 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-02 19:01:21.6548 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-02 19:01:23.1436 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-03 12:21:49.1506 Info Message Template Auto Format enabled
+2025-06-03 12:21:49.2465 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-03 12:21:49.5264 Info Adding target FileTarget(Name=allfile)
+2025-06-03 12:21:49.5404 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-03 12:21:49.6031 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-03 12:21:49.6321 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-03 12:22:00.5683 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-03 12:27:10.7007 Info Message Template Auto Format enabled
+2025-06-03 12:27:10.7317 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-03 12:27:10.8651 Info Adding target FileTarget(Name=allfile)
+2025-06-03 12:27:10.8781 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-03 12:27:10.9348 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-03 12:27:10.9523 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-03 12:27:13.8528 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-03 16:59:30.4115 Info Message Template Auto Format enabled
+2025-06-03 16:59:30.4559 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-03 16:59:30.6423 Info Adding target FileTarget(Name=allfile)
+2025-06-03 16:59:30.6574 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-03 16:59:30.7397 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-03 16:59:30.7619 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-03 16:59:32.4364 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-03 17:15:52.7674 Info Message Template Auto Format enabled
+2025-06-03 17:15:52.8079 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-03 17:15:52.9797 Info Adding target FileTarget(Name=allfile)
+2025-06-03 17:15:52.9991 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-03 17:15:53.0820 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-03 17:15:53.1079 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-03 17:15:55.3048 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-03 17:24:01.7537 Info Message Template Auto Format enabled
+2025-06-03 17:24:01.7978 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-03 17:24:01.9756 Info Adding target FileTarget(Name=allfile)
+2025-06-03 17:24:01.9995 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-03 17:24:02.0812 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-03 17:24:02.1053 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-03 17:24:05.3759 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-03 17:27:07.9971 Info Message Template Auto Format enabled
+2025-06-03 17:27:08.0694 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-03 17:27:09.1941 Info Adding target FileTarget(Name=allfile)
+2025-06-03 17:27:09.2680 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-03 17:27:09.4718 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-03 17:27:09.5337 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-03 17:27:11.0449 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-03 17:29:46.0287 Info Message Template Auto Format enabled
+2025-06-03 17:29:46.1094 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-03 17:29:46.3693 Info Adding target FileTarget(Name=allfile)
+2025-06-03 17:29:46.4216 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-03 17:29:46.5803 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-03 17:29:46.6101 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-03 17:29:49.6753 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-03 18:25:03.8210 Info Message Template Auto Format enabled
+2025-06-03 18:25:03.8580 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-03 18:25:04.0402 Info Adding target FileTarget(Name=allfile)
+2025-06-03 18:25:04.8833 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-03 18:25:04.9778 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-03 18:25:05.0080 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-03 18:25:09.5220 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-04 11:23:54.7432 Info Message Template Auto Format enabled
+2025-06-04 11:23:54.7856 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-04 11:23:55.0028 Info Adding target FileTarget(Name=allfile)
+2025-06-04 11:23:55.0185 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-04 11:23:55.0809 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-04 11:23:55.1034 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-04 11:23:57.9114 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-04 11:38:02.9373 Info Message Template Auto Format enabled
+2025-06-04 11:38:02.9624 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-04 11:38:03.1017 Info Adding target FileTarget(Name=allfile)
+2025-06-04 11:38:03.1282 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-04 11:38:03.2022 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-04 11:38:03.2276 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-04 11:38:04.8776 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-04 11:45:57.3865 Info Message Template Auto Format enabled
+2025-06-04 11:45:57.6396 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-04 11:45:58.4084 Info Adding target FileTarget(Name=allfile)
+2025-06-04 11:45:58.4305 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-04 11:45:58.5836 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-04 11:45:58.6711 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-04 11:46:00.6133 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-04 11:47:54.7074 Info Message Template Auto Format enabled
+2025-06-04 11:47:54.7245 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-04 11:47:54.8158 Info Adding target FileTarget(Name=allfile)
+2025-06-04 11:47:54.8257 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-04 11:47:54.8854 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-04 11:47:54.9134 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-04 11:47:58.4128 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-04 11:50:04.7864 Info Message Template Auto Format enabled
+2025-06-04 11:50:04.8098 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-04 11:50:04.9817 Info Adding target FileTarget(Name=allfile)
+2025-06-04 11:50:05.1905 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-04 11:50:05.6592 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-04 11:50:06.0631 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-04 11:50:08.7833 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-04 13:22:05.3016 Info Message Template Auto Format enabled
+2025-06-04 13:22:05.3406 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-04 13:22:05.4900 Info Adding target FileTarget(Name=allfile)
+2025-06-04 13:22:05.5042 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-04 13:22:05.5782 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-04 13:22:05.5998 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-04 13:22:07.8740 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-04 13:51:32.7990 Info Message Template Auto Format enabled
+2025-06-04 13:51:32.8314 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-04 13:51:32.9987 Info Adding target FileTarget(Name=allfile)
+2025-06-04 13:51:33.0132 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-04 13:51:33.0946 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-04 13:51:33.1159 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-04 13:51:35.0166 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-04 17:44:51.3662 Info Message Template Auto Format enabled
+2025-06-04 17:44:51.3985 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-04 17:44:51.5396 Info Adding target FileTarget(Name=allfile)
+2025-06-04 17:44:51.5504 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-04 17:44:51.6178 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-04 17:44:51.6392 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-04 17:44:53.4171 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-04 18:13:25.2463 Info Message Template Auto Format enabled
+2025-06-04 18:13:25.3216 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-04 18:13:25.5149 Info Adding target FileTarget(Name=allfile)
+2025-06-04 18:13:25.5472 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-04 18:13:25.6460 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-04 18:13:25.6812 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-04 18:13:28.2098 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-04 18:17:53.7869 Info Message Template Auto Format enabled
+2025-06-04 18:17:53.8398 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-04 18:17:54.0002 Info Adding target FileTarget(Name=allfile)
+2025-06-04 18:17:54.0231 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-04 18:17:54.3436 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-04 18:17:54.5280 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-04 18:17:58.3675 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-04 19:20:35.4809 Info Message Template Auto Format enabled
+2025-06-04 19:20:35.6961 Info Loading assembly: NLog.Web.AspNetCore
+2025-06-04 19:20:37.2380 Info Adding target FileTarget(Name=allfile)
+2025-06-04 19:20:37.3128 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2025-06-04 19:20:37.3944 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config
+2025-06-04 19:20:37.4350 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2025-06-04 19:20:39.9333 Info Validating config: TargetNames=allfile, ConfigItems=39, FilePath=C:\Users\HP\source\repos\EventResistrationAPIs\bin\Debug\net6.0\nlog.config

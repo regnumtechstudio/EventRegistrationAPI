@@ -1,1 +1,1 @@
-# EventRistrationAPI
+# EventRegistrationAPI
